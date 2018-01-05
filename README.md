@@ -6,4 +6,4 @@ I have written server-side code to store a list of my favorite movies, including
 
 # How to Run
 
-Clone this repository directory and run the script entertainment_center.py. You can view the page by opening fresh_tomatoes.html.
+Clone this repository directory and run the script entertainment_center.py. Additional support Code fresh_tomatoes.py file is given to update in the website.
