@@ -6,6 +6,7 @@ interstellar = media.Movie("Interstellar",
                            "Flim about space",
                            "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
                            "https://www.youtube.com/watch?v=Lm8p5rlrSkY")
+
 #avatar movie : movie title,story line, poster image,movie trailer
 
 avatar = media.Movie("Avatar",
