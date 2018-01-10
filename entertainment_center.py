@@ -1,7 +1,9 @@
 import media
 import fresh_tomatoes
 
+
 #interstellar movie : movie title,storyline,poster image,movie trailer
+
 interstellar = media.Movie("Interstellar",
                            "Flim about space",
                            "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
