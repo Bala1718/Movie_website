@@ -21,7 +21,7 @@ avatar = media.Movie("Avatar",
 internship = media.Movie("The Internship",
                          "Internship at Google",
                          "https://goo.gl/CUWEh5",
-                         "https://www.youtube.com/watch?v=cdnoqCViqUo")                        
+                         "https://www.youtube.com/watch?v=cdnoqCViqUo")
 movies = [interstellar, avatar, internship]
 fresh_tomatoes.open_movies_page(movies)
 print (media.Movie.__doc__)
