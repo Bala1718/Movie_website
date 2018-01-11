@@ -25,3 +25,4 @@ internship = media.Movie("The Internship",
 movies = [interstellar, avatar, internship]
 fresh_tomatoes.open_movies_page(movies)
 print (media.Movie.__doc__)
+
